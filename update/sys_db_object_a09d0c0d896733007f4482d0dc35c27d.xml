@@ -23,15 +23,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-26 18:03:17</sys_created_on>
         <sys_id>a09d0c0d896733007f4482d0dc35c27d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">429984c9896733007f4482d0dc35c2f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">429984c9896733007f4482d0dc35c2f9</sys_scope>
         <sys_update_name>sys_db_object_a09d0c0d896733007f4482d0dc35c27d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-26 18:03:18</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_on>2019-08-27 03:54:16</sys_updated_on>
+        <update_access>true</update_access>
         <user_role display_value="x_cdltd_loaner_req.loaner_request_user" name="x_cdltd_loaner_req.loaner_request_user">644e8c0d896733007f4482d0dc35c276</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
